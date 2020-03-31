@@ -1,6 +1,6 @@
 steps
 [x]hash password with virtual (in User model)
-[]create auth token with jwt (in User model)
+[x]create auth token with jwt (in User model)
 []signup route (in auth routes)
 []authorize method (in User model)
 []login route (in auth routes)
